@@ -1,9 +1,15 @@
 # launchpad
+Seth, Rohan, Ashwin, Will, Raj, Blake, Mathew
+PROJECT GOAL:
+Our goal is to learn to code an arduino and build a launchpad, which is a grid of buttons that play a sound on each button. Here are some components of our project:
+1. Create classes that represent different instruments
+2. Create a 2D array to represent the grid
+3. Build a launchpad using a kid 
 AP Java Launchpad Project
 Links:
 1. Adafruit UNTZtrument! Open-Source 8x8 Grid Controller Kit - 8x8 White LEDs - https://www.adafruit.com/product/1929
 2. Solder materials
 3. Arduino Leonardo - https://www.adafruit.com/product/3228
 4. Wire Spool Set - https://amzn.to/2I5CUH6
-Total Price Estimate - $140
-Current price distribution - 23.3$
+Total Price Estimate - $166
+Current price distribution - 24$
