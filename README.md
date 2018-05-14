@@ -1,5 +1,5 @@
 # launchpad
-Seth, Rohan, Ashwin, Will, Raj, Blake, Mathew
+Seth, Rohan, Ashwin, Will, Raj, Blake, Matthew                                
 PROJECT GOAL:
 Our goal is to learn to code an arduino and build a launchpad, which is a grid of buttons that play a sound on each button. Here are some components of our project:
 1. Create classes that represent different instruments
